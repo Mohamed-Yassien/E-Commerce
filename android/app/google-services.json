@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530062095100",
+    "firebase_url": "https://give-moment.firebaseio.com",
+    "project_id": "give-moment",
+    "storage_bucket": "give-moment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530062095100:android:79387bb7284d0d2d5b9d79",
+        "android_client_info": {
+          "package_name": "com.example.givemeamoment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530062095100-6aj3e3834r6544p7592flim2asidei22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWVmkPvVQ0bqHi0vV9QQs1EIctc68eqEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530062095100-6aj3e3834r6544p7592flim2asidei22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
